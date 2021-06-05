@@ -62,7 +62,7 @@ This project is under the MIT license. See the [LICENSE](LICENSE) for more infor
 
 ---
 
-Made with ♥ by Walleks Miranda : [Get in touch!](https://www.linkedin.com/in/walleks-rodrigues-miranda-b291bb1aa/)
+Made with ♥ by Walleks Miranda : [Get in touch!](https://www.linkedin.com/in/walleks-miranda-b291bb1aa/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
