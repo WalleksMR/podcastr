@@ -61,7 +61,7 @@ $ yarn dev
 This project is under the MIT license. See the [LICENSE](LICENSE) for more information.
 
 ---
-Dpeloy in Vercel: https://podcastr-wine-phi.vercel.app
+Deploy in Vercel: https://podcastr-wine-phi.vercel.app
 
 Made with ♥ by Walleks Miranda : [Get in touch!](https://www.linkedin.com/in/walleks-miranda-b291bb1aa/)
 
